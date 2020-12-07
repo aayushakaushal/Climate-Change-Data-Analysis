@@ -1,1 +1,2 @@
-# Climate-Change-Data-Analysis
+## Climate-Change-Data-Analysis
+### The datasets used were GlobalTemperaturesbyCountry and GlobalTemperatures datasets from Kaggle. The first part of the project involves descriptive analytics to see how trends in the weather from 1750 to 2015. The second part of the project involves dividing the dataset into two categories, developed and developing countries. After this linear regression models were used to forecast temperatures in developing and developed countries by 2025.
